@@ -10,145 +10,7 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>012820547CC8B8BD740E8863</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-JVMusicPlayer.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>029439456D7059FCE248617B</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-Tests-JVMusicPlayer.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>06E8554DA6A6141459F17558</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>7D04E25D48BC00995CFBEF04</string>
-				<string>BA4AC994FF3ACD9201985541</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>07FFDEBBD2C16595D0B57DA1</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>08D4CCC8AA1CBDCC295183AD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-JVMusicPlayer-JVMusicPlayer.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0A87CFEA751FE874E74E28F4</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>bundle</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>0B22E0FE3B73A34CF12450BA</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>5185028CC848B6F0D13B3EED</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>JVMusicPlayer</string>
-			<key>path</key>
-			<string>../..</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0C4736C21F89FF39821488CC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-JVMusicPlayer-JVMusicPlayer-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0CA2006862AC76C44044E7E1</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>67103569F3181DDBD8CAD97D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>1126FE329B6B92D9EBF892C3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-Tests-JVMusicPlayer-Private.xcconfig</string>
-			<key>path</key>
-			<string>../Pods-Tests-JVMusicPlayer/Pods-Tests-JVMusicPlayer-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1A83293BFE78417A585E01B4</key>
+		<key>016BE459D351F6340815DE4D</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -157,68 +19,124 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>Pods-Tests-JVMusicPlayer-dummy.m</string>
+			<string>JVMusicPlayer.m</string>
 			<key>path</key>
-			<string>../Pods-Tests-JVMusicPlayer/Pods-Tests-JVMusicPlayer-dummy.m</string>
+			<string>Pod/Classes/JVMusicPlayer.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>20ECB4677BDCDFA84E7C2841</key>
+		<key>0527133C4EAED1D6DAC89AC8</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>target</key>
+			<string>F1C598433FADFAAD642734F3</string>
+			<key>targetProxy</key>
+			<string>322CBFE86CBEA527E8C931F2</string>
+		</dict>
+		<key>0FC45081687CF8300CAD7C84</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>DE78FD93651119E8CE6A4831</string>
+				<string>7D3FCB5854AAEF564DB94812</string>
+				<string>A64E6A2D4BE47221D10EA8F9</string>
 			</array>
 			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
+			<string>PBXSourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>2282ABDEFFE2758D3B8DF0F5</key>
+		<key>13DE3112F645094744B2C479</key>
 		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.cfbundle</string>
 			<key>includeInIndex</key>
-			<string>1</string>
+			<string>0</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
 			<key>path</key>
-			<string>Pods-JVMusicPlayer.release.xcconfig</string>
+			<string>JVMusicPlayer.bundle</string>
 			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>275C237360774C1E34BDA467</key>
+		<key>146946D94685C70F7D732CB7</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods-JVMusicPlayer.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>173F3FD7F13670B958CAAE87</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>D14CD31532322FA3ECB87DA1</string>
+				<string>2F8103878314B06294178B35</string>
+				<string>3729E1E9CE900CA1A1159F7C</string>
+				<string>C9EEA6BD87D8543C18DF3B48</string>
+				<string>3F736FFAAAA0B3181CBF634A</string>
+				<string>865B8677F310699A7D01E535</string>
+				<string>EC694EFAF5B811DE55C5543F</string>
+				<string>789C9A9C964582531ED0A240</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>iOS</string>
+			<string>Pods-JVMusicPlayer</string>
+			<key>path</key>
+			<string>Target Support Files/Pods-JVMusicPlayer</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>27B8983B8E5097AA7DD533A9</key>
+		<key>1800B9FB61C2C244BA02A4B3</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>E2E8A2F9ECCF6609BEDED475</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>1E121E9ED759CB70573A6408</key>
+		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text</string>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>Foundation.framework</string>
 			<key>path</key>
-			<string>Pods-JVMusicPlayer-acknowledgements.markdown</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework</string>
 			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>295C3B14C2C3147507FC5235</key>
+		<key>1EAA61BB25C18ED25AC6F00B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>016BE459D351F6340815DE4D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc</string>
+			</dict>
+		</dict>
+		<key>2CBF3A8C16B134722015E593</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>1126FE329B6B92D9EBF892C3</string>
+			<string>DDD3DA16CED53F9F770FF945</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -234,7 +152,7 @@
 				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
 				<string>YES</string>
 				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-Tests-JVMusicPlayer/Pods-Tests-JVMusicPlayer-prefix.pch</string>
+				<string>Target Support Files/Pods-JVMusicPlayer-JVMusicPlayer/Pods-JVMusicPlayer-JVMusicPlayer-prefix.pch</string>
 				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
 				<array>
 					<string>DEBUG=1</string>
@@ -264,372 +182,10 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>2ADEC10E3222A84A4AA88754</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-Tests-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2F7E73642A126AA7BDB1DD14</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1A83293BFE78417A585E01B4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3051B264E92F4AD51F76A657</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>4778933896749E5F02C2EE19</string>
-				<string>E7B3AF66A6C81425E09B4203</string>
-				<string>9AE087293E9456BBD5B3DE7E</string>
-				<string>FF91469230B77C36A6E9B65A</string>
-				<string>06E8554DA6A6141459F17558</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>31D3FEDDD5C8FAF0E37EF09A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FE9468661C65D61C73D8BEAF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>358B2DCA0954A3D6F0500488</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-JVMusicPlayer-JVMusicPlayer-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3AD84FDEA39BE09A5BF61709</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-Tests.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>3D1819DCBCCC8A58B9703627</key>
+		<key>2D6BBD13A61062EBA324B7E1</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>012820547CC8B8BD740E8863</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>3DDBE6167B9B9946FFF72FAC</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>A31BCF6FF88C1112FC22B85E</string>
-			<key>buildPhases</key>
-			<array>
-				<string>CA9781ADF9951DD8C668CF9E</string>
-				<string>20ECB4677BDCDFA84E7C2841</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>43F18F3AA624B2FD54A0BD35</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-JVMusicPlayer</string>
-			<key>productName</key>
-			<string>Pods-JVMusicPlayer</string>
-			<key>productReference</key>
-			<string>C33FFDC4AAAA306B28BB58CF</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>3EBA87397C3BD2CEE741367E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-JVMusicPlayer-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>420348F58DB23A6822E7C0A9</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>bundle</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>43F18F3AA624B2FD54A0BD35</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>F5B23FDC90D8F3D0567E4C81</string>
-			<key>targetProxy</key>
-			<string>52DE4B1A772EC9B48510C941</string>
-		</dict>
-		<key>45667A556870542B7E7EC077</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D14CD31532322FA3ECB87DA1</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4778933896749E5F02C2EE19</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>4AC7D9E2E142995FED429550</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>972F38F33224AD027DBD2D05</string>
-				<string>9DC5A1636B6EFB2DD519A6E7</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>4D44F618E4C13AA3C7535A20</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>B32A6539C2FB1AA21C925183</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>4F71A101A12F9F9C67D8F1BE</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>69D2568746318D80F6087EC3</string>
-			<key>buildPhases</key>
-			<array>
-				<string>F01463AD2F9EA0B8749D1C2B</string>
-				<string>7C1E44B065D66043914E2C2E</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>E54EF69583ED2A21E9F6173F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-Tests-JVMusicPlayer</string>
-			<key>productName</key>
-			<string>Pods-Tests-JVMusicPlayer</string>
-			<key>productReference</key>
-			<string>029439456D7059FCE248617B</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>5185028CC848B6F0D13B3EED</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>08D4CCC8AA1CBDCC295183AD</string>
-				<string>0C4736C21F89FF39821488CC</string>
-				<string>B60B8FE5CD8C9E78731486F5</string>
-				<string>358B2DCA0954A3D6F0500488</string>
-				<string>595712443F738CF51BFDC0F6</string>
-				<string>1126FE329B6B92D9EBF892C3</string>
-				<string>1A83293BFE78417A585E01B4</string>
-				<string>82782B04215A139B39CAA1AD</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>Example/Pods/Target Support Files/Pods-JVMusicPlayer-JVMusicPlayer</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>527B9C418406379ADCE68102</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>52DE4B1A772EC9B48510C941</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>AF349FA15D5F1E29B6ABAC34</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>F5B23FDC90D8F3D0567E4C81</string>
-			<key>remoteInfo</key>
-			<string>Pods-JVMusicPlayer-JVMusicPlayer</string>
-		</dict>
-		<key>54644776574FF3BAF68F96FD</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>CD165FB2606BB860E7F6A3EA</string>
-			<key>targetProxy</key>
-			<string>C853E4F68098A8C09F85F35C</string>
-		</dict>
-		<key>595712443F738CF51BFDC0F6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-Tests-JVMusicPlayer.xcconfig</string>
-			<key>path</key>
-			<string>../Pods-Tests-JVMusicPlayer/Pods-Tests-JVMusicPlayer.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5E9D32FCE64BD5B5A91EF7EC</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>2282ABDEFFE2758D3B8DF0F5</string>
+			<string>789C9A9C964582531ED0A240</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -674,102 +230,54 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>67103569F3181DDBD8CAD97D</key>
+		<key>2DF4B9C12564B189380A7408</key>
 		<dict>
-			<key>fileRef</key>
-			<string>B60B8FE5CD8C9E78731486F5</string>
+			<key>baseConfigurationReference</key>
+			<string>EC694EFAF5B811DE55C5543F</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>NO</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_DYNAMIC_NO_PIC</key>
+				<string>NO</string>
+				<key>GCC_OPTIMIZATION_LEVEL</key>
+				<string>0</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>7.1</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>69D2568746318D80F6087EC3</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>295C3B14C2C3147507FC5235</string>
-				<string>9F46A1AB1C2C14DFF2719DF7</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>78F5B0EBF98AA36814092C40</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>AF349FA15D5F1E29B6ABAC34</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>4F71A101A12F9F9C67D8F1BE</string>
-			<key>remoteInfo</key>
-			<string>Pods-Tests-JVMusicPlayer</string>
-		</dict>
-		<key>797DC09EE5FB2CC92D84FFE2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D14CD31532322FA3ECB87DA1</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7C1E44B065D66043914E2C2E</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>ED63CCCCEBBB5B1166AFDB12</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7C4FB4CED63988EEDE4681C8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>834FCC88C57E83D15EBCB055</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7D04E25D48BC00995CFBEF04</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>27B8983B8E5097AA7DD533A9</string>
-				<string>D68D2DD068200789360728CD</string>
-				<string>FE9468661C65D61C73D8BEAF</string>
-				<string>E6903225A65BDBB0AA84D0E3</string>
-				<string>3EBA87397C3BD2CEE741367E</string>
-				<string>012820547CC8B8BD740E8863</string>
-				<string>2282ABDEFFE2758D3B8DF0F5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>XCBuildConfiguration</string>
 			<key>name</key>
-			<string>Pods-JVMusicPlayer</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-JVMusicPlayer</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>Debug</string>
 		</dict>
-		<key>824713CB8A29A5D48201FD58</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-Tests-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>82782B04215A139B39CAA1AD</key>
+		<key>2E78E945D2E5308EAE4A2910</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -778,26 +286,57 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>Pods-Tests-JVMusicPlayer-prefix.pch</string>
+			<string>JVMusicPlayer.h</string>
 			<key>path</key>
-			<string>../Pods-Tests-JVMusicPlayer/Pods-Tests-JVMusicPlayer-prefix.pch</string>
+			<string>Pod/Classes/JVMusicPlayer.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>834FCC88C57E83D15EBCB055</key>
+		<key>2F8103878314B06294178B35</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>text</string>
 			<key>path</key>
-			<string>Pods-Tests-dummy.m</string>
+			<string>Pods-JVMusicPlayer-acknowledgements.markdown</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>89A2EA6CB9B1B18A04689C29</key>
+		<key>322CBFE86CBEA527E8C931F2</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>8F7D8E6949DDEAD3D3817943</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>F1C598433FADFAAD642734F3</string>
+			<key>remoteInfo</key>
+			<string>Pods-JVMusicPlayer-JVMusicPlayer</string>
+		</dict>
+		<key>3424DF0DEDE0CA32E30F98BA</key>
+		<dict>
+			<key>buildSettings</key>
+			<dict>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>WRAPPER_EXTENSION</key>
+				<string>bundle</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>3592E7EBEEB3448F7B04D78B</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -864,37 +403,47 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>8A0CDB3D56D7508257BBF796</key>
+		<key>3729E1E9CE900CA1A1159F7C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Pods-JVMusicPlayer-acknowledgements.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3F736FFAAAA0B3181CBF634A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-JVMusicPlayer-environment.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>41380E03FAD623D6239DA424</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
-			<array>
-				<string>45667A556870542B7E7EC077</string>
-			</array>
+			<array/>
 			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
+			<string>PBXResourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>8AD86B3020CA9318B9556D55</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>420348F58DB23A6822E7C0A9</string>
-				<string>0A87CFEA751FE874E74E28F4</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>972F38F33224AD027DBD2D05</key>
+		<key>42EBEA46E8C124387DDE6082</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>0C4736C21F89FF39821488CC</string>
+			<string>8ABD8FACD50FB96A7FC025EE</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -909,8 +458,6 @@
 				<string>0</string>
 				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
 				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-JVMusicPlayer-JVMusicPlayer/Pods-JVMusicPlayer-JVMusicPlayer-prefix.pch</string>
 				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
 				<array>
 					<string>DEBUG=1</string>
@@ -940,260 +487,272 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>9AE087293E9456BBD5B3DE7E</key>
+		<key>479ECCE7B1049B7DC27B8541</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>275C237360774C1E34BDA467</string>
+				<string>854B75D6CA12AEB86E2EB774</string>
+				<string>F0E7F943CDA8978DF1293534</string>
+				<string>A2A7D0C5ED6780D0A0B8537D</string>
+				<string>78E633F56E4FC369C2CD780F</string>
+				<string>B054727100E8F2C9C9677A1A</string>
+				<string>8ABD8FACD50FB96A7FC025EE</string>
+				<string>A3FA5C84DA20048F79612BB4</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Frameworks</string>
+			<string>Pods-Tests</string>
+			<key>path</key>
+			<string>Target Support Files/Pods-Tests</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>9C5FC5CEF2C2C612942F9A5C</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>89A2EA6CB9B1B18A04689C29</string>
-				<string>C29A19AE01DE58438E0DFAD1</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>9DC5A1636B6EFB2DD519A6E7</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>0C4736C21F89FF39821488CC</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-JVMusicPlayer-JVMusicPlayer/Pods-JVMusicPlayer-JVMusicPlayer-prefix.pch</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>9F46A1AB1C2C14DFF2719DF7</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>1126FE329B6B92D9EBF892C3</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Pods-Tests-JVMusicPlayer/Pods-Tests-JVMusicPlayer-prefix.pch</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>A31BCF6FF88C1112FC22B85E</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>3D1819DCBCCC8A58B9703627</string>
-				<string>5E9D32FCE64BD5B5A91EF7EC</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>AB51B7C717E582C033EB0B16</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>B9B7907429C19923C677B204</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>AE0EF32DB0614EBAFF0533F4</key>
+		<key>4CA24C71534F38168CBC6842</key>
 		<dict>
 			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
+			<string>archive.ar</string>
 			<key>includeInIndex</key>
 			<string>0</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>JVMusicPlayer.bundle</string>
+			<string>libPods-Tests.a</string>
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>AF349FA15D5F1E29B6ABAC34</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastUpgradeCheck</key>
-				<string>0510</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>9C5FC5CEF2C2C612942F9A5C</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>3051B264E92F4AD51F76A657</string>
-			<key>productRefGroup</key>
-			<string>FF91469230B77C36A6E9B65A</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>CD165FB2606BB860E7F6A3EA</string>
-				<string>3DDBE6167B9B9946FFF72FAC</string>
-				<string>F5B23FDC90D8F3D0567E4C81</string>
-				<string>D367280A0ACCD701B7D69F10</string>
-				<string>4F71A101A12F9F9C67D8F1BE</string>
-			</array>
-		</dict>
-		<key>AF84381C51B5A17307A0C425</key>
+		<key>4DCD88AB63413B9BD730DC4E</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
-			<array/>
+			<array>
+				<string>E3A7FBD541042B03E082B4F3</string>
+			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>AFEBAC1E64BE2DBC66B5812A</key>
+		<key>5999A24F42168F7A13A8B8FA</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>AEB7B4183D3A9881561216B7</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>63EA6E9F274C9DF6E0946000</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>name</key>
+			<string>Pods-Tests-JVMusicPlayer.xcconfig</string>
+			<key>path</key>
+			<string>../Pods-Tests-JVMusicPlayer/Pods-Tests-JVMusicPlayer.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>647A8E3EFB1972A1B26EE677</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>784F9CFEA3F7742F9D732425</string>
+				<string>E369AF0FF32CF8B0F469A188</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>661099C04A3154C2DAE2600A</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>8F7D8E6949DDEAD3D3817943</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>6D34141B2A14346939A1140A</string>
+			<key>remoteInfo</key>
+			<string>JVMusicPlayer</string>
+		</dict>
+		<key>6D34141B2A14346939A1140A</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>CD91AC25AD75B9BFE19D8054</string>
+			<key>buildPhases</key>
+			<array>
+				<string>8D4C41925CA58CF2BB3A6C9D</string>
+				<string>9A941F88F52A8E06B018E807</string>
+				<string>41380E03FAD623D6239DA424</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>JVMusicPlayer</string>
+			<key>productName</key>
+			<string>JVMusicPlayer</string>
+			<key>productReference</key>
+			<string>13DE3112F645094744B2C479</string>
+			<key>productType</key>
+			<string>com.apple.product-type.bundle</string>
+		</dict>
+		<key>706EE8522CE29A7AF725D13C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-JVMusicPlayer-JVMusicPlayer.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>73C619BF0576EBF4FA40AE2F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>Pods-Tests-JVMusicPlayer-dummy.m</string>
+			<key>path</key>
+			<string>../Pods-Tests-JVMusicPlayer/Pods-Tests-JVMusicPlayer-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7647F58508D14A30C998C0B2</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>A3FA5C84DA20048F79612BB4</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>7.1</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>784F9CFEA3F7742F9D732425</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>D39A77DA4B203EFD0CC13723</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>NO</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_DYNAMIC_NO_PIC</key>
+				<string>NO</string>
+				<key>GCC_OPTIMIZATION_LEVEL</key>
+				<string>0</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/Pods-Tests-JVMusicPlayer/Pods-Tests-JVMusicPlayer-prefix.pch</string>
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>7.1</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>789C9A9C964582531ED0A240</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-JVMusicPlayer.release.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>78E633F56E4FC369C2CD780F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1206,93 +765,177 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>B21DE353B0A4AC46A5D78529</key>
+		<key>7BF5575BC171747C866BC5E5</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods-JVMusicPlayer-JVMusicPlayer.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>7D3FCB5854AAEF564DB94812</key>
+		<dict>
+			<key>fileRef</key>
+			<string>016BE459D351F6340815DE4D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc</string>
+			</dict>
+		</dict>
+		<key>7ED7B931DC712A466C44204A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text</string>
+			<key>name</key>
+			<string>Podfile</string>
+			<key>path</key>
+			<string>../Podfile</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+			<key>xcLanguageSpecificationIdentifier</key>
+			<string>xcode.lang.ruby</string>
+		</dict>
+		<key>814F56DEDB89BA59295FB8BF</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>3592E7EBEEB3448F7B04D78B</string>
+				<string>89C607CFEA9E58EDA4A2B391</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>828024F3D0D58EDE926056BD</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>797DC09EE5FB2CC92D84FFE2</string>
+				<string>FB45E253180F3E2FBE82BA1B</string>
 			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>B32A6539C2FB1AA21C925183</key>
+		<key>836617C4D3BD5873A6E3E3BF</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>8D731F44CBA4710FDBC66AEF</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>854B75D6CA12AEB86E2EB774</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
+			<string>text</string>
 			<key>path</key>
-			<string>Pods-Tests.debug.xcconfig</string>
+			<string>Pods-Tests-acknowledgements.markdown</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>B5C85C1DAB04831A12F1870B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-Tests-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B60B8FE5CD8C9E78731486F5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-JVMusicPlayer-JVMusicPlayer-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B9B7907429C19923C677B204</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-Tests.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BA4AC994FF3ACD9201985541</key>
+		<key>85A1427364EEA9449B22517D</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>824713CB8A29A5D48201FD58</string>
-				<string>B5C85C1DAB04831A12F1870B</string>
-				<string>834FCC88C57E83D15EBCB055</string>
-				<string>AFEBAC1E64BE2DBC66B5812A</string>
-				<string>2ADEC10E3222A84A4AA88754</string>
-				<string>B32A6539C2FB1AA21C925183</string>
-				<string>B9B7907429C19923C677B204</string>
+				<string>2E78E945D2E5308EAE4A2910</string>
+				<string>016BE459D351F6340815DE4D</string>
+				<string>9BB268729D4D9B0A53B3FF12</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Pods-Tests</string>
+			<string>JVMusicPlayer</string>
 			<key>path</key>
-			<string>Target Support Files/Pods-Tests</string>
+			<string>../..</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C29A19AE01DE58438E0DFAD1</key>
+		<key>865B8677F310699A7D01E535</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.script.sh</string>
+			<key>path</key>
+			<string>Pods-JVMusicPlayer-resources.sh</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>86A54EA27C66AD5F216D6896</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>target</key>
+			<string>E7B50B6A93B7E557F8FF94C8</string>
+			<key>targetProxy</key>
+			<string>B1A8CC1CCE7E64BBDC20D620</string>
+		</dict>
+		<key>87D49AAEC60FAE1FE43F0231</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2E78E945D2E5308EAE4A2910</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>88A532B6C319C180697ACBAB</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>2DF4B9C12564B189380A7408</string>
+				<string>2D6BBD13A61062EBA324B7E1</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>89AE2436E1D437785919F605</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>Pods-Tests-JVMusicPlayer-prefix.pch</string>
+			<key>path</key>
+			<string>../Pods-Tests-JVMusicPlayer/Pods-Tests-JVMusicPlayer-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>89C607CFEA9E58EDA4A2B391</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -1354,264 +997,105 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>C33FFDC4AAAA306B28BB58CF</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-JVMusicPlayer.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>C853E4F68098A8C09F85F35C</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>AF349FA15D5F1E29B6ABAC34</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>CD165FB2606BB860E7F6A3EA</string>
-			<key>remoteInfo</key>
-			<string>JVMusicPlayer</string>
-		</dict>
-		<key>CA9781ADF9951DD8C668CF9E</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>31D3FEDDD5C8FAF0E37EF09A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>CC2524B7970CD7D016EF1409</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-JVMusicPlayer-JVMusicPlayer.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>CD165FB2606BB860E7F6A3EA</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>8AD86B3020CA9318B9556D55</string>
-			<key>buildPhases</key>
-			<array>
-				<string>07FFDEBBD2C16595D0B57DA1</string>
-				<string>AF84381C51B5A17307A0C425</string>
-				<string>527B9C418406379ADCE68102</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>JVMusicPlayer</string>
-			<key>productName</key>
-			<string>JVMusicPlayer</string>
-			<key>productReference</key>
-			<string>AE0EF32DB0614EBAFF0533F4</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle</string>
-		</dict>
-		<key>D14CD31532322FA3ECB87DA1</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>D367280A0ACCD701B7D69F10</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>FDF65E3F41F0DE0D6DF108CC</string>
-			<key>buildPhases</key>
-			<array>
-				<string>DC642E9A8E2E9D932A6B6773</string>
-				<string>8A0CDB3D56D7508257BBF796</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>EB1EB103D4491BFCEFE84DA9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-Tests</string>
-			<key>productName</key>
-			<string>Pods-Tests</string>
-			<key>productReference</key>
-			<string>3AD84FDEA39BE09A5BF61709</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>D68D2DD068200789360728CD</key>
+		<key>8ABD8FACD50FB96A7FC025EE</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
+			<string>text.xcconfig</string>
 			<key>path</key>
-			<string>Pods-JVMusicPlayer-acknowledgements.plist</string>
+			<string>Pods-Tests.debug.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>DC642E9A8E2E9D932A6B6773</key>
+		<key>8D4C41925CA58CF2BB3A6C9D</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
-			<array>
-				<string>7C4FB4CED63988EEDE4681C8</string>
-			</array>
+			<array/>
 			<key>isa</key>
 			<string>PBXSourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>DE78FD93651119E8CE6A4831</key>
+		<key>8D731F44CBA4710FDBC66AEF</key>
 		<dict>
 			<key>fileRef</key>
-			<string>D14CD31532322FA3ECB87DA1</string>
+			<string>A2A7D0C5ED6780D0A0B8537D</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>E54EF69583ED2A21E9F6173F</key>
+		<key>8F7D8E6949DDEAD3D3817943</key>
+		<dict>
+			<key>attributes</key>
+			<dict>
+				<key>LastUpgradeCheck</key>
+				<string>0510</string>
+			</dict>
+			<key>buildConfigurationList</key>
+			<string>814F56DEDB89BA59295FB8BF</string>
+			<key>compatibilityVersion</key>
+			<string>Xcode 3.2</string>
+			<key>developmentRegion</key>
+			<string>English</string>
+			<key>hasScannedForEncodings</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXProject</string>
+			<key>knownRegions</key>
+			<array>
+				<string>en</string>
+			</array>
+			<key>mainGroup</key>
+			<string>A93BDC9E6883D8541C2D3920</string>
+			<key>productRefGroup</key>
+			<string>9E5EFDCF8B5222F34C0ECEC0</string>
+			<key>projectDirPath</key>
+			<string></string>
+			<key>projectReferences</key>
+			<array/>
+			<key>projectRoot</key>
+			<string></string>
+			<key>targets</key>
+			<array>
+				<string>6D34141B2A14346939A1140A</string>
+				<string>AC5E91F799BE620A40C3F821</string>
+				<string>F1C598433FADFAAD642734F3</string>
+				<string>D41805FC7F75EF60981B7DC6</string>
+				<string>E7B50B6A93B7E557F8FF94C8</string>
+			</array>
+		</dict>
+		<key>8FC4AB4157A6F5FD5C59B572</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXTargetDependency</string>
 			<key>target</key>
-			<string>CD165FB2606BB860E7F6A3EA</string>
+			<string>6D34141B2A14346939A1140A</string>
 			<key>targetProxy</key>
-			<string>F67FD46302172E1DC915E13B</string>
+			<string>661099C04A3154C2DAE2600A</string>
 		</dict>
-		<key>E6903225A65BDBB0AA84D0E3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-JVMusicPlayer-environment.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E7B3AF66A6C81425E09B4203</key>
+		<key>8FFA6FC8F79E220474336261</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>0B22E0FE3B73A34CF12450BA</string>
+				<string>1E121E9ED759CB70573A6408</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Development Pods</string>
+			<string>iOS</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>EB1EB103D4491BFCEFE84DA9</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>4F71A101A12F9F9C67D8F1BE</string>
-			<key>targetProxy</key>
-			<string>78F5B0EBF98AA36814092C40</string>
-		</dict>
-		<key>ED63CCCCEBBB5B1166AFDB12</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D14CD31532322FA3ECB87DA1</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F01463AD2F9EA0B8749D1C2B</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>2F7E73642A126AA7BDB1DD14</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>F5B23FDC90D8F3D0567E4C81</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>4AC7D9E2E142995FED429550</string>
-			<key>buildPhases</key>
-			<array>
-				<string>0CA2006862AC76C44044E7E1</string>
-				<string>B21DE353B0A4AC46A5D78529</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>54644776574FF3BAF68F96FD</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-JVMusicPlayer-JVMusicPlayer</string>
-			<key>productName</key>
-			<string>Pods-JVMusicPlayer-JVMusicPlayer</string>
-			<key>productReference</key>
-			<string>CC2524B7970CD7D016EF1409</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>F67FD46302172E1DC915E13B</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>AF349FA15D5F1E29B6ABAC34</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>CD165FB2606BB860E7F6A3EA</string>
-			<key>remoteInfo</key>
-			<string>JVMusicPlayer</string>
-		</dict>
-		<key>FDF65E3F41F0DE0D6DF108CC</key>
+		<key>95B7D5064B8CEB66EA9557D9</key>
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-				<string>4D44F618E4C13AA3C7535A20</string>
-				<string>AB51B7C717E582C033EB0B16</string>
+				<string>42EBEA46E8C124387DDE6082</string>
+				<string>7647F58508D14A30C998C0B2</string>
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -1620,7 +1104,327 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>FE9468661C65D61C73D8BEAF</key>
+		<key>9693FCF60E277A248F0DA387</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>173F3FD7F13670B958CAAE87</string>
+				<string>479ECCE7B1049B7DC27B8541</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Targets Support Files</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>98D7880C2D2839486210EFD6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-JVMusicPlayer-JVMusicPlayer-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9A941F88F52A8E06B018E807</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>9BB268729D4D9B0A53B3FF12</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>706EE8522CE29A7AF725D13C</string>
+				<string>DDD3DA16CED53F9F770FF945</string>
+				<string>9E9FDAC7A6E84E4FA718288F</string>
+				<string>98D7880C2D2839486210EFD6</string>
+				<string>63EA6E9F274C9DF6E0946000</string>
+				<string>D39A77DA4B203EFD0CC13723</string>
+				<string>73C619BF0576EBF4FA40AE2F</string>
+				<string>89AE2436E1D437785919F605</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>Example/Pods/Target Support Files/Pods-JVMusicPlayer-JVMusicPlayer</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9D8139F3BA0F9E041BE23CC2</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>DDD3DA16CED53F9F770FF945</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/Pods-JVMusicPlayer-JVMusicPlayer/Pods-JVMusicPlayer-JVMusicPlayer-prefix.pch</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>7.1</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>9E5EFDCF8B5222F34C0ECEC0</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>13DE3112F645094744B2C479</string>
+				<string>146946D94685C70F7D732CB7</string>
+				<string>7BF5575BC171747C866BC5E5</string>
+				<string>4CA24C71534F38168CBC6842</string>
+				<string>B94810659DC72EEC1E35092B</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Products</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9E9FDAC7A6E84E4FA718288F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-JVMusicPlayer-JVMusicPlayer-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A2A7D0C5ED6780D0A0B8537D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-Tests-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A32DEB7EFD61560641164DC4</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>1EAA61BB25C18ED25AC6F00B</string>
+				<string>BB0B845102D06F6F61771369</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>A3FA5C84DA20048F79612BB4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-Tests.release.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A421CE17C299DE76E374821C</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>8FFA6FC8F79E220474336261</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A518852C06B70EDD1283A792</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>85A1427364EEA9449B22517D</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Development Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A64E6A2D4BE47221D10EA8F9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9E9FDAC7A6E84E4FA718288F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>A93BDC9E6883D8541C2D3920</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>7ED7B931DC712A466C44204A</string>
+				<string>A518852C06B70EDD1283A792</string>
+				<string>A421CE17C299DE76E374821C</string>
+				<string>9E5EFDCF8B5222F34C0ECEC0</string>
+				<string>9693FCF60E277A248F0DA387</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AC5E91F799BE620A40C3F821</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>88A532B6C319C180697ACBAB</string>
+			<key>buildPhases</key>
+			<array>
+				<string>EA956C673DDDDF3BE6D4B639</string>
+				<string>4DCD88AB63413B9BD730DC4E</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>0527133C4EAED1D6DAC89AC8</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-JVMusicPlayer</string>
+			<key>productName</key>
+			<string>Pods-JVMusicPlayer</string>
+			<key>productReference</key>
+			<string>146946D94685C70F7D732CB7</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>AEB7B4183D3A9881561216B7</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1E121E9ED759CB70573A6408</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B054727100E8F2C9C9677A1A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.script.sh</string>
+			<key>path</key>
+			<string>Pods-Tests-resources.sh</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B1A8CC1CCE7E64BBDC20D620</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>8F7D8E6949DDEAD3D3817943</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>E7B50B6A93B7E557F8FF94C8</string>
+			<key>remoteInfo</key>
+			<string>Pods-Tests-JVMusicPlayer</string>
+		</dict>
+		<key>B31EEA9C2B847FB8498AC9A1</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>87D49AAEC60FAE1FE43F0231</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>B94810659DC72EEC1E35092B</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods-Tests-JVMusicPlayer.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>BB0B845102D06F6F61771369</key>
+		<dict>
+			<key>fileRef</key>
+			<string>73C619BF0576EBF4FA40AE2F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C9EEA6BD87D8543C18DF3B48</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1633,25 +1437,321 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>FF91469230B77C36A6E9B65A</key>
+		<key>CC1A194BDDDCBF3FF1D9EF07</key>
 		<dict>
-			<key>children</key>
+			<key>buildConfigurations</key>
 			<array>
-				<string>AE0EF32DB0614EBAFF0533F4</string>
-				<string>C33FFDC4AAAA306B28BB58CF</string>
-				<string>CC2524B7970CD7D016EF1409</string>
-				<string>3AD84FDEA39BE09A5BF61709</string>
-				<string>029439456D7059FCE248617B</string>
+				<string>2CBF3A8C16B134722015E593</string>
+				<string>9D8139F3BA0F9E041BE23CC2</string>
 			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>CD91AC25AD75B9BFE19D8054</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>3424DF0DEDE0CA32E30F98BA</string>
+				<string>CFEDB143DDADB325BF9312CD</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>CFEDB143DDADB325BF9312CD</key>
+		<dict>
+			<key>buildSettings</key>
+			<dict>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>WRAPPER_EXTENSION</key>
+				<string>bundle</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
 			<key>name</key>
-			<string>Products</string>
+			<string>Release</string>
+		</dict>
+		<key>D2D9B91E8A7003374543A6E9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C9EEA6BD87D8543C18DF3B48</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D39A77DA4B203EFD0CC13723</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>name</key>
+			<string>Pods-Tests-JVMusicPlayer-Private.xcconfig</string>
+			<key>path</key>
+			<string>../Pods-Tests-JVMusicPlayer/Pods-Tests-JVMusicPlayer-Private.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>D4080E4FCE9529604AF64C92</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>8F7D8E6949DDEAD3D3817943</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>6D34141B2A14346939A1140A</string>
+			<key>remoteInfo</key>
+			<string>JVMusicPlayer</string>
+		</dict>
+		<key>D41805FC7F75EF60981B7DC6</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>95B7D5064B8CEB66EA9557D9</string>
+			<key>buildPhases</key>
+			<array>
+				<string>836617C4D3BD5873A6E3E3BF</string>
+				<string>5999A24F42168F7A13A8B8FA</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>86A54EA27C66AD5F216D6896</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-Tests</string>
+			<key>productName</key>
+			<string>Pods-Tests</string>
+			<key>productReference</key>
+			<string>4CA24C71534F38168CBC6842</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>D4C8BF629BB119F2ACF95692</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>D6F2DF9DCC70AD81EFF2C228</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>D6F2DF9DCC70AD81EFF2C228</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1E121E9ED759CB70573A6408</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>DDD3DA16CED53F9F770FF945</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-JVMusicPlayer-JVMusicPlayer-Private.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E2E8A2F9ECCF6609BEDED475</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2E78E945D2E5308EAE4A2910</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E369AF0FF32CF8B0F469A188</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>D39A77DA4B203EFD0CC13723</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/Pods-Tests-JVMusicPlayer/Pods-Tests-JVMusicPlayer-prefix.pch</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>7.1</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>E3A7FBD541042B03E082B4F3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1E121E9ED759CB70573A6408</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E7B50B6A93B7E557F8FF94C8</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>647A8E3EFB1972A1B26EE677</string>
+			<key>buildPhases</key>
+			<array>
+				<string>A32DEB7EFD61560641164DC4</string>
+				<string>828024F3D0D58EDE926056BD</string>
+				<string>B31EEA9C2B847FB8498AC9A1</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>8FC4AB4157A6F5FD5C59B572</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-Tests-JVMusicPlayer</string>
+			<key>productName</key>
+			<string>Pods-Tests-JVMusicPlayer</string>
+			<key>productReference</key>
+			<string>B94810659DC72EEC1E35092B</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>EA956C673DDDDF3BE6D4B639</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>D2D9B91E8A7003374543A6E9</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>EC694EFAF5B811DE55C5543F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-JVMusicPlayer.debug.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F0E7F943CDA8978DF1293534</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Pods-Tests-acknowledgements.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F1C598433FADFAAD642734F3</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>CC1A194BDDDCBF3FF1D9EF07</string>
+			<key>buildPhases</key>
+			<array>
+				<string>0FC45081687CF8300CAD7C84</string>
+				<string>D4C8BF629BB119F2ACF95692</string>
+				<string>1800B9FB61C2C244BA02A4B3</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>FEFB7201AB9450ECAFD6A61A</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-JVMusicPlayer-JVMusicPlayer</string>
+			<key>productName</key>
+			<string>Pods-JVMusicPlayer-JVMusicPlayer</string>
+			<key>productReference</key>
+			<string>7BF5575BC171747C866BC5E5</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>FB45E253180F3E2FBE82BA1B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1E121E9ED759CB70573A6408</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>FEFB7201AB9450ECAFD6A61A</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>target</key>
+			<string>6D34141B2A14346939A1140A</string>
+			<key>targetProxy</key>
+			<string>D4080E4FCE9529604AF64C92</string>
+		</dict>
 	</dict>
 	<key>rootObject</key>
-	<string>AF349FA15D5F1E29B6ABAC34</string>
+	<string>8F7D8E6949DDEAD3D3817943</string>
 </dict>
 </plist>
