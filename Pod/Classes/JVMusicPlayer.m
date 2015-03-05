@@ -73,6 +73,7 @@
     if(self)
     {
         // initializer
+        self.backgroundColor = [[UIColor blackColor] colorWithAlphaComponent:0.5];
         [self setupPlayer];
     }
     

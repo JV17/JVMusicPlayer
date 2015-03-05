@@ -11,13 +11,8 @@ Pod::Spec.new do |s|
   s.name             = "JVMusicPlayer"
   s.version          = "0.1.0"
   s.summary          = "A short description of JVMusicPlayer."
-  s.description      = <<-DESC
-                       An optional longer description of JVMusicPlayer
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
-                       DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/JVMusicPlayer"
+  s.description      = "A powerful lightweight music player in Objective-C"
+  s.homepage         = "https://github.com/JV17/JVMusicPlayer"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Jorge Valbuena" => "jorgevalbuena2@gmail.com" }
