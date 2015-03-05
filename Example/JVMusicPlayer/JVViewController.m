@@ -7,8 +7,11 @@
 //
 
 #import "JVViewController.h"
+#import <JVMusicPlayer/JVMusicPlayer.h>
 
 @interface JVViewController ()
+
+@property (strong, nonatomic) JVMusicPlayer *musicPlayer;
 
 @end
 
@@ -18,6 +21,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    self.musicPlayer = [[JVMusicPlayer alloc] initWithFrame:CGRectMake(0, 30, self.view.frame.size.width, 250)];
+    [self.view addSubview:self.musicPlayer];
+    
 }
 
 - (void)didReceiveMemoryWarning
