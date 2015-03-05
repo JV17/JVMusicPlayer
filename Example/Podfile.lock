@@ -1,0 +1,14 @@
+PODS:
+  - JVMusicPlayer (0.1.0)
+
+DEPENDENCIES:
+  - JVMusicPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  JVMusicPlayer:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JVMusicPlayer: 5691bcf93016e9027c752d404ccd6ce2a3ae467f
+
+COCOAPODS: 0.34.4
